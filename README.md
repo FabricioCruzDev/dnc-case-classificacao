@@ -8,6 +8,9 @@ Case prático de análise de churn utilizando Python e Streamlit. O objetivo é 
 - Desenvolva o modelo utilizando as etapas do CRISP-DM;
 - Crie um App no Streamlit para prever o dataset `new_customers.csv`;
 
+### Ambiente
+    **case_classification**
+
 ## Dicionário dos dados
 
 O dicionário dos dados pode ser encontrado [neste link](https://www.kaggle.com/datasets/yeanzc/telco-customer-churn-ibm-dataset).  
